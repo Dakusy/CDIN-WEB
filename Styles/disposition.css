@@ -2,8 +2,7 @@ h1
 {
 color: Black;
 text-align: center;
-padding:5px;
-
+padding:0%;
 }
 
 footer{
@@ -18,22 +17,21 @@ height:50px;
 
 body>header{
 	position:relative;
-	margin:0;
+	margin:auto;
 	padding:5px;
 	background-color:grey;
 	text-align:center;
-	height:60px;
+	height:50px;
     border-radius: 10px 10px 0px 0px;
 }
 
 body  {
-    border-radius: 10px;
-
+border-radius: 10px;
 background:white;
 }
 
 
-body textcenter {
-    color:aquamarine;;
-
+body>message{
+    background-color:grey;
+    border radios: 10px;
 }
