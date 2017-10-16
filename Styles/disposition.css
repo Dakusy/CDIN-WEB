@@ -38,5 +38,13 @@ body>header{
 h2 {
     color:Black;
     text-align:center;
+}
+
+#Logo{
+
+position:absolute;
+    left:0;
+    top:0;
 
 }
+
