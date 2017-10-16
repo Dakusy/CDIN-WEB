@@ -5,9 +5,7 @@ font-weight: bold;
 text-decoration: underline; 
 text-align: center;
 } 
-header {
-border-radius: 10px;
-}
+
 footer{
 background:#ccc;
 position:absolute;
@@ -21,9 +19,8 @@ border-radius: 10px;
 
 body>header{
 	position:relative;
-	width:99.3%;
 	margin:0;
-	padding:6px;
+	padding:5px;
 	background-color:grey;
 	text-align:center;
 	height:60px;
@@ -31,6 +28,6 @@ body>header{
 
 body  {
 
-background:orange;
+background:white;
 
 }
