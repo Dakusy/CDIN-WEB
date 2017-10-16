@@ -2,7 +2,6 @@ h1
 {
 color: Black;
 text-align: center;
-padding:0%;
 }
 
 footer{
@@ -29,5 +28,7 @@ body>header{
 
 #Message{
     background-color:grey;
- border-radius: 10px;
+    border-radius: 10px;
+    position:static;
+    width:35%;
 }
