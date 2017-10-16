@@ -32,5 +32,11 @@ body>header{
     border-radius: 10px;
     position:static;
     width:300px;
-    height:260px;
+    height:auto;
+}
+
+h2 {
+    color:Black;
+    text-align:center;
+
 }
