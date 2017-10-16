@@ -1,2 +1,1 @@
-WESH LES KHEYS 
-JAI UN GROS ZIZI
+PROJET CDIN-WEB : Cappelle Jessy / Tourdot Thomas / Coffin Neel
