@@ -1,0 +1,32 @@
+body{
+    background-image: url("../images/historicalbackground.jpg");
+}
+main{
+    background: white;
+    position: absolute;
+    right: 20%;
+    left: 20%;
+}
+
+div>h2{
+    text-align: center;
+    color:mediumblue;
+    font-size: 200%;
+    font-family: impact;
+}
+div{
+    text-align: center;
+}
+h2{
+    text-align: left;
+    font-size: 170%;
+    font-family: cursive
+}
+h3{
+    font-size: 150%;
+    font-family: fantasy
+}
+p{
+    font-size: 110%;
+    font-family: Georgia;
+}
