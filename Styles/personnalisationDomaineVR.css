@@ -1,0 +1,29 @@
+main{
+    background: white;
+    position: absolute;
+    right: 20%;
+    left: 20%;
+}
+body{
+    background-image: url("../images/etoile1.jpg");
+}
+#menu{
+   padding-bottom: 45px;
+}
+h2{
+    text-align: center;
+    font-size: 200%;
+    font-family: impact;
+}
+h3{
+    text-align: left;
+    font-size: 170%;
+    font-family: cursive
+}
+p{
+    font-size: 100%;
+    font-family: Georgia;
+}
+#img{
+    text-align: center;
+}
