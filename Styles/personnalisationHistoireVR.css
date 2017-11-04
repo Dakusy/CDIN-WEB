@@ -14,7 +14,7 @@ div>h2{
     font-size: 200%;
     font-family: impact;
 }
-#img{
+p.img{
     text-align: center;
 }
 h2{
@@ -33,3 +33,4 @@ p{
 #menu{
    padding-bottom: 45px;
 }
+
