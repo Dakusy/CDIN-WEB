@@ -1,12 +1,15 @@
 main{
     position: absolute;
 }
+
 body{
    background-color: rgba(7, 28, 44, 1);
 }
+
 #menu{
    padding-bottom: 45px;
 }
+
 h2{
     text-align: center;
     font-size: 200%;
@@ -22,6 +25,7 @@ p{
     font-size: 100%;
     font-family: Georgia;
 }
+
 #img{
     text-align: center;
 }
@@ -35,7 +39,7 @@ p{
 }
 
 .block {
-  bottom:492%;
+  bottom:483%;
   position: relative;
   display: inline-block;
   background-color:blanchedalmond;
@@ -45,19 +49,19 @@ p{
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
+
 .block1 {
-  bottom:518%;
+  bottom:510%;
   position: relative;
   display: inline-block;
   background-color:blanchedalmond;
   width: 30%;
   height: 170%;
-
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
-.block2 {
 
+.block2 {
   position: relative;
   display: inline-block;
   background-color:blanchedalmond;
@@ -67,6 +71,7 @@ p{
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
+
 .block3 {
   position: relative;
   right: 15.2%;
@@ -79,6 +84,7 @@ p{
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
+
 .block4 {
   position: relative;
   right:15.2%;
