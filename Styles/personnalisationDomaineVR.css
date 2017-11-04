@@ -2,7 +2,7 @@ main{
     position: absolute;
 }
 body{
-    background-image: url("../images/etoile1.jpg");
+   background-color: rgba(7, 28, 44, 1);
 }
 #menu{
    padding-bottom: 45px;
