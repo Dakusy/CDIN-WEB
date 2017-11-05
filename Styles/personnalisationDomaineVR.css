@@ -32,7 +32,6 @@ p{
   margin-left: 3px;
   height: 200px;
   text-align: center;
-
 }
 
 .block {
@@ -53,7 +52,6 @@ p{
   background-color:blanchedalmond;
   width: 30%;
   height: 170%;
-
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
@@ -103,8 +101,6 @@ p{
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
-
-
 
 p.img{
   max-width: 100%
