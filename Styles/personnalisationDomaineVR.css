@@ -24,6 +24,7 @@ p{
 }
 #img{
     text-align: center;
+    width:20%;
 }
 
 .recommendation {
@@ -111,3 +112,9 @@ p{
 .block img {
   float: left;
 }
+
+p.img{
+    text-align: center;
+    width:20%;
+}
+
