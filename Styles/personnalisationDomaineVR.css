@@ -1,15 +1,12 @@
 main{
     position: absolute;
 }
-
 body{
    background-color: rgba(7, 28, 44, 1);
 }
-
 #menu{
    padding-bottom: 45px;
 }
-
 h2{
     text-align: center;
     font-size: 200%;
@@ -25,7 +22,6 @@ p{
     font-size: 100%;
     font-family: Georgia;
 }
-
 #img{
     text-align: center;
 }
@@ -39,58 +35,56 @@ p{
 }
 
 .block {
-  bottom:483%;
+  bottom:492%;
   position: relative;
   display: inline-block;
-  background-color:white;
+  background-color:blanchedalmond;
   width: 30%;
   height: 170%;
   text-align: center;
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
-
 .block1 {
-  bottom:510%;
+  bottom:518%;
   position: relative;
   display: inline-block;
-  background-color:white;
+  background-color:blanchedalmond;
   width: 30%;
   height: 170%;
+
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
-
 .block2 {
+
   position: relative;
   display: inline-block;
-  background-color:white;
+  background-color:blanchedalmond;
   width: 30%;
-  height: 652%;
+  height: 660%;
   text-align: center;
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
-
 .block3 {
   position: relative;
   right: 15.2%;
   bottom: 520%;
   display: inline-block;
-  background-color:white;
+  background-color:blanchedalmond;
   width: 30%;
   height: 480%;
   text-align: center;
   border: 1px solid #6868CC;
   border-radius: 7px;
 }
-
 .block4 {
   position: relative;
   right:15.2%;
   bottom: 510%;
   display: inline-block;
-  background-color:white;
+  background-color:blanchedalmond;
   width: 30%;
   height: 480%;
   text-align: center;
@@ -100,7 +94,7 @@ p{
 
 .def {
   position: relative;
-  background-color:white;
+  background-color:blanchedalmond;
   margin-left: 10%;
   width: 80%;
   height: 100%;
