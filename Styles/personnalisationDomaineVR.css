@@ -94,7 +94,7 @@ p{
 }
 
 .def {
-  position: realtive;
+  position: relative;
   background-color:blanchedalmond;
   margin-left: 10%;
   width: 80%;
@@ -104,17 +104,11 @@ p{
   border-radius: 7px;
 }
 
-.block table{
-  width: 100%;
-  height: 100%;
-}
 
-.block img {
-  float: left;
-}
 
 p.img{
-    text-align: center;
-    width:20%;
+  max-width: 100%
+      height: auto;
+    overflow: hidden;
 }
 
