@@ -6,6 +6,7 @@ text-align: center;
 
 footer{
 background-color:darkgrey;
+    color:black;
 position:fixed;
 bottom:0px;
 width:99%;
