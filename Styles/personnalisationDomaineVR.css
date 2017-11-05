@@ -37,7 +37,7 @@ p{
 
 .block {
   bottom:492%;
-  position: relative;
+  position:relative;
   display: inline-block;
   background-color:blanchedalmond;
   width: 30%;
@@ -63,7 +63,7 @@ p{
   display: inline-block;
   background-color:blanchedalmond;
   width: 30%;
-  height: 660%;
+  height: 668%;
   text-align: center;
   border: 1px solid #6868CC;
   border-radius: 7px;
